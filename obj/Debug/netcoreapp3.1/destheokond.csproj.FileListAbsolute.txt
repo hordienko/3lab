@@ -1,0 +1,26 @@
+C:\Users\Latitude\source\repos\3lab\bin\Debug\netcoreapp3.1\destheokond.exe
+C:\Users\Latitude\source\repos\3lab\bin\Debug\netcoreapp3.1\destheokond.deps.json
+C:\Users\Latitude\source\repos\3lab\bin\Debug\netcoreapp3.1\destheokond.runtimeconfig.json
+C:\Users\Latitude\source\repos\3lab\bin\Debug\netcoreapp3.1\destheokond.runtimeconfig.dev.json
+C:\Users\Latitude\source\repos\3lab\bin\Debug\netcoreapp3.1\destheokond.dll
+C:\Users\Latitude\source\repos\3lab\bin\Debug\netcoreapp3.1\destheokond.pdb
+C:\Users\Latitude\source\repos\3lab\obj\Debug\netcoreapp3.1\destheokond.csprojAssemblyReference.cache
+C:\Users\Latitude\source\repos\3lab\obj\Debug\netcoreapp3.1\destheokond.AssemblyInfoInputs.cache
+C:\Users\Latitude\source\repos\3lab\obj\Debug\netcoreapp3.1\destheokond.AssemblyInfo.cs
+C:\Users\Latitude\source\repos\3lab\obj\Debug\netcoreapp3.1\destheokond.csproj.CoreCompileInputs.cache
+C:\Users\Latitude\source\repos\3lab\obj\Debug\netcoreapp3.1\destheokond.dll
+C:\Users\Latitude\source\repos\3lab\obj\Debug\netcoreapp3.1\destheokond.pdb
+C:\Users\Latitude\source\repos\3lab\obj\Debug\netcoreapp3.1\destheokond.genruntimeconfig.cache
+D:\навчання\4 курс\7 семестр\Теорія прийняття рішень(Кривий)\3lab\bin\Debug\netcoreapp3.1\destheokond.exe
+D:\навчання\4 курс\7 семестр\Теорія прийняття рішень(Кривий)\3lab\bin\Debug\netcoreapp3.1\destheokond.deps.json
+D:\навчання\4 курс\7 семестр\Теорія прийняття рішень(Кривий)\3lab\bin\Debug\netcoreapp3.1\destheokond.runtimeconfig.json
+D:\навчання\4 курс\7 семестр\Теорія прийняття рішень(Кривий)\3lab\bin\Debug\netcoreapp3.1\destheokond.runtimeconfig.dev.json
+D:\навчання\4 курс\7 семестр\Теорія прийняття рішень(Кривий)\3lab\bin\Debug\netcoreapp3.1\destheokond.dll
+D:\навчання\4 курс\7 семестр\Теорія прийняття рішень(Кривий)\3lab\bin\Debug\netcoreapp3.1\destheokond.pdb
+D:\навчання\4 курс\7 семестр\Теорія прийняття рішень(Кривий)\3lab\obj\Debug\netcoreapp3.1\destheokond.csprojAssemblyReference.cache
+D:\навчання\4 курс\7 семестр\Теорія прийняття рішень(Кривий)\3lab\obj\Debug\netcoreapp3.1\destheokond.AssemblyInfoInputs.cache
+D:\навчання\4 курс\7 семестр\Теорія прийняття рішень(Кривий)\3lab\obj\Debug\netcoreapp3.1\destheokond.AssemblyInfo.cs
+D:\навчання\4 курс\7 семестр\Теорія прийняття рішень(Кривий)\3lab\obj\Debug\netcoreapp3.1\destheokond.csproj.CoreCompileInputs.cache
+D:\навчання\4 курс\7 семестр\Теорія прийняття рішень(Кривий)\3lab\obj\Debug\netcoreapp3.1\destheokond.dll
+D:\навчання\4 курс\7 семестр\Теорія прийняття рішень(Кривий)\3lab\obj\Debug\netcoreapp3.1\destheokond.pdb
+D:\навчання\4 курс\7 семестр\Теорія прийняття рішень(Кривий)\3lab\obj\Debug\netcoreapp3.1\destheokond.genruntimeconfig.cache
